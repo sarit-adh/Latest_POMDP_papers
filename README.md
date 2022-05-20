@@ -1,6 +1,6 @@
 # Latest POMDP papers
 
-ICML 2021
+**ICML 2021**
 
 Structured World Belief for Reinforcement Learning in POMDP
 Kaixin Wang, Kuangqi Zhou, Qixin Zhang, Jie Shao, Bryan Hooi, Jiashi Feng
@@ -10,7 +10,7 @@ Robust Asymmetric Learning in POMDPs
 Andrew Warrington, Jonathan W Lavington, Adam Scibior, Mark Schmidt, Frank Wood
 http://proceedings.mlr.press/v139/warrington21a/warrington21a.pdf
 
-NEURIPS 2021
+**NEURIPS 2021**
 
 Adaptive Online Packing-guided Search for POMDPs
 Chenyang Wu, Guoyu Yang, Zongzhang Zhang, Yang Yu, Dong Li, Wulong Liu, Jianye Hao
@@ -28,7 +28,7 @@ Program Synthesis Guided Reinforcement Learning for Partially Observed Environme
 Yichen Yang, Jeevana Priya Inala, Osbert Bastani, Yewen Pu, Armando Solar-Lezama, Martin Rinard
 https://proceedings.neurips.cc/paper/2021/file/f7e2b2b75b04175610e5a00c1e221ebb-Paper.pdf
 
-AAMAS 2021
+**AAMAS 2021**
 
 Cyber Attack Intent Recognition and Active Deception using Factored Interactive POMDPs
 Aditya Shinde, Prashant Doshi, Omid Setayeshfar
